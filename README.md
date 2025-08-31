@@ -1,5 +1,4 @@
 # Output_parsers
-# Output Parsers
 
 This repository contains a collection of **output parsers** for handling and structuring responses from language models or other text-generating systems.  
 It provides different strategies for parsing outputs into usable formats such as JSON, Pydantic models, or plain strings.
